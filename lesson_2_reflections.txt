@@ -11,3 +11,9 @@ the staging area is the boundaries for files whose changes will be saved
 in the next commit, while the working directory contains the current
 state of files and the repository contains the boundaries for all
 the files that will share commits.
+
+How can you use the staging area to make sure you have one commit
+per logical change?
+
+The staging area can be used to separate which file changes get committed
+so that only the relevant changes get committed.
