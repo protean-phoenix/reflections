@@ -14,3 +14,10 @@ the remote stored locally?
 
 You can compare a local branch to the last known state
 of a remote branch
+
+How would you collaborate without using Git or GitHub?
+What would be easier, and what would be harder?
+
+You could have one main repository that the other repositories
+made a remote of (through a link). It would be difficult to
+communicate because of the lack of a UI.
