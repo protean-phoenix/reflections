@@ -8,3 +8,9 @@ When would you use one instead of another?
 Branches are labels for different timelines of commits in
 a repository. Clones are duplicates of repositories. Forks
 Are clones from one github account to another.
+
+What is the benefit of having a copy of the last known state of
+the remote stored locally?
+
+You can compare a local branch to the last known state
+of a remote branch
