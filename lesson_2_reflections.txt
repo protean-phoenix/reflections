@@ -35,3 +35,9 @@ represent it in the diagram the way we do?
 
 A combined set of commits with two branch labels. The diagram
 is the way it is because it is easy to visualize.
+
+What are the pros and cons of Git’s automatic merging vs. always doing
+merges manually?
+
+Automatic merging saves time but manual merging is safer for merges
+where the same line of code is different in the two branches.
