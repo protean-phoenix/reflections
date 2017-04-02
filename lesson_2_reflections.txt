@@ -17,3 +17,10 @@ per logical change?
 
 The staging area can be used to separate which file changes get committed
 so that only the relevant changes get committed.
+
+What are some situations when branches would be helpful in keeping
+your history organized? How would branches help?
+
+Branches would help for keeping different versions of code that make
+commits independently of each other. Branches are able to keep different
+timelines of commits that update independently from the other branches.
