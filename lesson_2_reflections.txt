@@ -41,3 +41,9 @@ merges manually?
 
 Automatic merging saves time but manual merging is safer for merges
 where the same line of code is different in the two branches.
+
+Why might you want to always pull changes manually rather than
+having Git automatically stay up-to-date with your remote repository?
+
+changes on the local repository may not reflect what you want to integrate
+with the remote repository at a given moment.
