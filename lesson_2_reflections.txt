@@ -24,3 +24,8 @@ your history organized? How would branches help?
 Branches would help for keeping different versions of code that make
 commits independently of each other. Branches are able to keep different
 timelines of commits that update independently from the other branches.
+
+How do the diagrams help you visualize the branch structure?
+
+Diagrams make it easy to visualize branch structure by showing the
+sequence of commits for each branch.
