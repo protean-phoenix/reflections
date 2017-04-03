@@ -21,3 +21,11 @@ What would be easier, and what would be harder?
 You could have one main repository that the other repositories
 made a remote of (through a link). It would be difficult to
 communicate because of the lack of a UI.
+
+When would you want to make changes in a separate branch rather
+than directly in master? What benefits does each approach have?
+
+Making changes to a branch other than master allows for
+different versions and for making merge pull requests.
+Merge pull requests allow for others to review the request.
+Directly pushing from master is faster.
